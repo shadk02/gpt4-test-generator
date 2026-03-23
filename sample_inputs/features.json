@@ -1,0 +1,10 @@
+[
+  {
+    "name": "login_feature",
+    "description": "Test the login page at /login. Valid login with username 'tomsmith' and password 'SuperSecretPassword!' should redirect to a secure area showing a success flash message. Invalid login with wrong credentials should show an error flash message. Edge cases: empty username field, empty password field."
+  },
+  {
+    "name": "dropdown_feature",
+    "description": "Test the dropdown at /dropdown. Selecting Option 1 should show it as selected. Selecting Option 2 should replace Option 1. Edge cases: verify the default state says 'Please select an option', verify only one option is selected at a time."
+  }
+]
