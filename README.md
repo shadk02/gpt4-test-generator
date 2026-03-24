@@ -24,7 +24,6 @@ python main.py
 - `generator/code_validator.py` — hallucination detection gate
 - `generator/file_writer.py` — saves generated test files
 - `sample_inputs/features.json` — your feature descriptions
-- `.github/workflows/ci.yml` — GitHub Actions CI/CD
 
 ## Setup
 Copy `.env.example` to `.env` and add your GitHub token.
